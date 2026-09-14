@@ -3,5 +3,6 @@
 !*/
 
 !.gitignore
+!readme.md
 !smb.s
 !translate.py
